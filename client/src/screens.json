@@ -1,5 +1,12 @@
 {
   "id": "__BASE__",
   "name": "Meow",
-  "screens": []
+  "screens": [
+    {
+      "id": "Blank",
+      "name": "Blank",
+      "sourceScreenId": "Blank",
+      "sourceAppId": "default"
+    }
+  ]
 }
