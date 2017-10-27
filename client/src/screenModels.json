@@ -8,10 +8,5 @@
     "type": "object",
     "comment": "Blank",
     "properties": {}
-  },
-  "Ssss": {
-    "type": "object",
-    "comment": "Blank",
-    "properties": {}
   }
 }
